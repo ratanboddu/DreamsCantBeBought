@@ -34,7 +34,7 @@ $(document).ready(function() {
     $('body').vegas({
         slides: [
             { src: 'images/dcbbBF.jpeg' },
-            { src: 'images/slide-img2.jpg' },
+            { src: 'images/CLLeague.jpeg' },
             { src: 'images/slide-img3.jpg' }
         ],
         timer: false,
