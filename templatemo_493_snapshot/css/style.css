@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  color: #e44c65;
+  color: white;
   font-size: 1.2rem;
   font-weight: bold;
   letter-spacing: 4px;
@@ -392,7 +392,7 @@ a:hover, a:active, a:focus {
   height: 400px;
   margin: 32px 0;
   text-align: center;
-  background: #ffffff;
+  background: #304352;
   border-radius: 4px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
