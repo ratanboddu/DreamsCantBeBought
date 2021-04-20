@@ -34,8 +34,8 @@ $(document).ready(function() {
     $('body').vegas({
         slides: [
             { src: 'images/dcbbBF.jpeg' },
-            { src: 'images/CLLeague.jpeg' },
-            { src: 'images/slide-img3.jpg' }
+            { src: 'images/createdpoor.jpeg' },
+            { src: 'images/footballnthng2.jpeg' }
         ],
         timer: false,
         transition: [ 'zoomIn', ],
