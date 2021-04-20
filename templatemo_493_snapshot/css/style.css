@@ -52,8 +52,9 @@ h2 {
 
 h3 {
   font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 4px;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  font-weight: bolder;
 }
 
 p {
@@ -92,7 +93,7 @@ p {
 }
 
 a {
-  color: #e44c65;
+  color: #222b5f;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -102,6 +103,7 @@ a:hover, a:active, a:focus {
   color: #e44c65;
   outline: none;
 }
+
 
 * {
   -webkit-box-sizing: border-box;
@@ -430,6 +432,7 @@ a:hover, a:active, a:focus {
 }
 
 #about .team-thumb .description {
+  background-color: white;
   font-size: 18px;
   width: 80%;
   margin: 0 auto;
@@ -664,6 +667,8 @@ footer {
   }
 
 }
+
+
 
 
 
